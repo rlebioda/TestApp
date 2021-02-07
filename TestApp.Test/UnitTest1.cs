@@ -13,7 +13,7 @@ namespace TestApp.Test
 
             var result = math.Add(1, 2);
 
-            Assert.AreEqual(4, result);
+            Assert.AreEqual(3, result);
         }
 
         [TestMethod]
